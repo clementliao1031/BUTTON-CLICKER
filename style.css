@@ -1,0 +1,62 @@
+*{
+    
+
+}
+
+.container{  
+    
+    height: 900px;
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+h1{
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    width: 900px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.box1{
+    height: 300px;
+    width: 400px;
+    border-style: solid;
+    border-color: black;
+    font-family: cursive;
+    
+}
+
+.box2{
+    
+    height: 250px;
+    width: 200px;
+    padding-left: 20px;
+    font-family: cursive;
+    font-size: 30px;
+    text-align: left;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.box3{
+    font-family: cursive;
+    height: 250px;
+    width: 400px;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+button{
+    background-color: goldenrod;
+}
+
